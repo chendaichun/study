@@ -3,7 +3,7 @@ using namespace std;
 /*
 	那么再用do while写一个水仙花数吧
 */
-int main()
+int mi2()
 {
 	int i = 100;
 	do
@@ -14,8 +14,6 @@ int main()
 		}
 		i++;
 	} while (i < 1000);
-	i=699;
-	cout << pow((int)((i / 10) % 10), 1) << endl;
 	system("pause");
 	return 0;
 }
