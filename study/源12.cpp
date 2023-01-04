@@ -3,6 +3,7 @@ using namespace std;
 /*
 * 冒泡排序的通解
 * 又失败了捏，去研究研究值传递与地址传递
+* 终于成功了
 */
 void re(int* p,int n);
 int main()
