@@ -6,7 +6,7 @@ using namespace std;
 * 终于成功了
 */
 void re(int* p,int n);
-int main()
+int mi13()
 {
 	int arr[] = { 1,2,5,3,123,55,9,14,2,1335 };
 	int len = sizeof(arr) / sizeof(arr[0]);
